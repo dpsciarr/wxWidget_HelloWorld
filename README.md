@@ -10,4 +10,4 @@ Windows binaries can be downloaded here:
 https://www.wxwidgets.org/downloads/
 
 Blog Post Reference:
-<link>
+https://itinerantsettler.com/blog/2021-03-11-wxwidgets-start-up/
